@@ -6,7 +6,7 @@ I am going to try adding a link to another .md file in this repo <https://enygma
 
 and also [this](https://enygma314.github.io/Morbus/index.md)
 
-My love, lettuce dance the masochism tango!
+testing html file type for links <https://enygma314.github.io/Morbus/blog.html>
 
 You can use the [editor on GitHub](https://github.com/Enygma314/Morbus/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
