@@ -3,8 +3,11 @@ So, this is here to test what I understand about linking to new pages created wi
 >you can do quotes like this
 
 and bold like **this**
+
 and italics like *this*
+
 and bold and italics like ***this***
+
 numbered lists
 1. bah
 2. bah
