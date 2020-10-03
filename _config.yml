@@ -1,5 +1,3 @@
 theme: jekyll-theme-hacker
-include:
--README.md
--testlinkpleaseignore.md
--index.md
+name: Morbus site test
+url: https://enygma314.github.io/Morbus/
