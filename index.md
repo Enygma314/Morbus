@@ -2,9 +2,9 @@
 Test text please ignore
 >Guess who's back?
 
-I am going to try adding a link to another .md file in this repo <https://enygma314.github.io/Morbus/TestLinkPleaseIgnore.md>
+I am going to try adding a link to another .md file in this repo <https://enygma314.github.io/Morbus/TestLinkPleaseIgnore.html>
 
-and also [this](https://enygma314.github.io/Morbus/index.md)
+and also [this](https://enygma314.github.io/Morbus/index.html)
 
 testing html file type for links <https://enygma314.github.io/Morbus/blog.html>
 
