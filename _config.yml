@@ -1,3 +1,5 @@
-theme: jekyll-theme-hacker
-name: Morbus site test
-url: https://enygma314.github.io/Morbus/
+title: Midnight theme
+description: Midnight is a theme for GitHub Pages.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-midnight
